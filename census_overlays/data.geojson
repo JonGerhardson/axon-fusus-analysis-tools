@@ -1,0 +1,2825 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.622593,
+          42.155003
+        ]
+      },
+      "properties": {
+        "name": "Bike Path - Paderewski St",
+        "photos": [
+          {
+            "url": "web_images/Bike_Path___Paderewski_St_01jpg",
+            "original_file": "Bike_Path_-_Paderewski_St_01.jpg"
+          },
+          {
+            "url": "web_images/Bike_Path___Paderewski_St_02jpg",
+            "original_file": "Bike_Path_-_Paderewski_St_02.jpg"
+          },
+          {
+            "url": "web_images/Bike_Path___Paderewski_St_04jpg",
+            "original_file": "Bike_Path_-_Paderewski_St_04.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 7,
+          "total_duration_minutes": 11.03,
+          "users": [
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Bike Path - Paderewski St - 2",
+            "Bike Path - Paderewski St - 1",
+            "Bike Path - Paderewski St - 3"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61456,
+          42.185724
+        ]
+      },
+      "properties": {
+        "name": "Bike Path @ Jones Ferry",
+        "photos": [
+          {
+            "url": "web_images/Bike_Path_Jones_Ferry_01jpg",
+            "original_file": "Bike_Path_Jones_Ferry_01.jpg"
+          },
+          {
+            "url": "web_images/Bike_Path_Jones_Ferry_02jpg",
+            "original_file": "Bike_Path_Jones_Ferry_02.jpg"
+          },
+          {
+            "url": "web_images/Bike_Path_Jones_Ferry_03jpg",
+            "original_file": "Bike_Path_Jones_Ferry_03.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 10,
+          "total_duration_minutes": 4.37,
+          "users": [
+            "Eric Watson",
+            "James Clark",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Bike Path @ Jones Ferry - 360 - 1",
+            "Bike Path @ Jones Ferry - 360 - 2",
+            "Bike Path @ Jones Ferry - 360 - 3",
+            "Bike Path @ Jones Ferry - 360 - 4"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58617,
+          42.173413
+        ]
+      },
+      "properties": {
+        "name": "Bory's Furniture",
+        "photos": [],
+        "log_stats": {
+          "total_views": 6,
+          "total_duration_minutes": 0.8,
+          "users": [
+            "James Clark",
+            "Mathew Post"
+          ],
+          "cameras": [
+            "Camera 5",
+            "Camera 2",
+            "Camera 16",
+            "Camera 3"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.581511,
+          42.14094
+        ]
+      },
+      "properties": {
+        "name": "Broadway & Abbey Memorial Dr",
+        "photos": [
+          {
+            "url": "web_images/Broadway_Abbey_Memorial_Dr_01jpg",
+            "original_file": "Broadway_Abbey_Memorial_Dr_01.jpg"
+          },
+          {
+            "url": "web_images/Broadway_Abbey_Memorial_Dr_02jpg",
+            "original_file": "Broadway_Abbey_Memorial_Dr_02.jpg"
+          },
+          {
+            "url": "web_images/Broadway_Abbey_Memorial_Dr_03jpg",
+            "original_file": "Broadway_Abbey_Memorial_Dr_03.jpg"
+          },
+          {
+            "url": "web_images/Broadway_Abbey_Memorial_Dr_04jpg",
+            "original_file": "Broadway_Abbey_Memorial_Dr_04.jpg"
+          },
+          {
+            "url": "web_images/Broadway_Abbey_Memorial_Dr_05jpg",
+            "original_file": "Broadway_Abbey_Memorial_Dr_05.jpg"
+          },
+          {
+            "url": "web_images/Broadway_Abbey_Memorial_Dr_06jpg",
+            "original_file": "Broadway_Abbey_Memorial_Dr_06.jpg"
+          },
+          {
+            "url": "web_images/Broadway_Abbey_Memorial_Dr_07jpg",
+            "original_file": "Broadway_Abbey_Memorial_Dr_07.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 21,
+          "total_duration_minutes": 62.08,
+          "users": [
+            "Eric Laflamme",
+            "Eric Watson",
+            "James Clark"
+          ],
+          "cameras": [
+            "Broadway and Abbey Memorial Dr - PTZ",
+            "Broadway and Abbey Memorial Dr - 360 - 3",
+            "Broadway and Abbey Memorial Dr - 360 - 1",
+            "Broadway and Abbey Memorial Dr - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.581824,
+          42.158503
+        ]
+      },
+      "properties": {
+        "name": "Broadway & E Main St",
+        "photos": [
+          {
+            "url": "web_images/Broadway_E_Main_St_01jpg",
+            "original_file": "Broadway_E_Main_St_01.jpg"
+          },
+          {
+            "url": "web_images/Broadway_E_Main_St_02jpg",
+            "original_file": "Broadway_E_Main_St_02.jpg"
+          },
+          {
+            "url": "web_images/Broadway_E_Main_St_03jpg",
+            "original_file": "Broadway_E_Main_St_03.jpg"
+          },
+          {
+            "url": "web_images/Broadway_E_Main_St_04jpg",
+            "original_file": "Broadway_E_Main_St_04.jpg"
+          },
+          {
+            "url": "web_images/Broadway_E_Main_St_05jpg",
+            "original_file": "Broadway_E_Main_St_05.jpg"
+          },
+          {
+            "url": "web_images/Broadway_E_Main_St_06jpg",
+            "original_file": "Broadway_E_Main_St_06.jpg"
+          },
+          {
+            "url": "web_images/Broadway_E_Main_St_07jpg",
+            "original_file": "Broadway_E_Main_St_07.jpg"
+          },
+          {
+            "url": "web_images/Broadway_E_Main_St_08jpg",
+            "original_file": "Broadway_E_Main_St_08.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 23,
+          "total_duration_minutes": 39.25,
+          "users": [
+            "Eric Laflamme",
+            "Eric Watson",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Broadway and East Main St - PTZ",
+            "Broadway and East Main St - 360 - 3",
+            "Broadway and East Main St - 360 - 2",
+            "Broadway and East Main St - 360 - 1",
+            "Broadway and East Main St - 360 - 4",
+            "1. Broadway and East Main St - 360 - 3"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.579603,
+          42.147552
+        ]
+      },
+      "properties": {
+        "name": "Broadway & St James Ave",
+        "photos": [
+          {
+            "url": "web_images/Broadway_St_James_Ave_01jpg",
+            "original_file": "Broadway_St_James_Ave_01.jpg"
+          },
+          {
+            "url": "web_images/Broadway_St_James_Ave_02jpg",
+            "original_file": "Broadway_St_James_Ave_02.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 5,
+          "total_duration_minutes": 18.2,
+          "users": [
+            "Mathew Post"
+          ],
+          "cameras": [
+            "Broadway and St James Ave - 360 - 4",
+            "Broadway and St James Ave - 360 - 1",
+            "Broadway and St James Ave - 360 - 3",
+            "Broadway and St James Ave - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.581824,
+          42.158503
+        ]
+      },
+      "properties": {
+        "name": "Broadway and East St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 9,
+          "total_duration_minutes": 3.48,
+          "users": [
+            "Mathew Post",
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Broadway and East St - 360 - 1",
+            "Broadway and East St - 360 - 4",
+            "Broadway and East St - 360 - 3",
+            "Broadway and East St - 360 - 2",
+            "Broadway and East St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.591454,
+          42.196775
+        ]
+      },
+      "properties": {
+        "name": "Buckley St & Prospect St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 11,
+          "total_duration_minutes": 45.87,
+          "users": [
+            "Patrick Major",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Buckley St and Prospect St - 360 - 3",
+            "Buckley St and Prospect St - 360 - 4",
+            "Buckley St and Prospect St - 360 - 1",
+            "Buckley St and Prospect St - 360 - 2",
+            "Buckley St and Prospect St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.572141,
+          42.197835
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Athletic clubs",
+        "photos": [],
+        "log_stats": {
+          "total_views": 9,
+          "total_duration_minutes": 73.05,
+          "users": [
+            "Eric Laflamme",
+            "James Clark",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Buffalo Athletic club",
+            "Buffalo Athletic club camera 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54688,
+          42.164327
+        ]
+      },
+      "properties": {
+        "name": "Burnett Rd & I291",
+        "photos": [],
+        "log_stats": {
+          "total_views": 9,
+          "total_duration_minutes": 88.57,
+          "users": [
+            "James Clark",
+            "Eric Watson",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Burnett Rd and I291 - 360 - 2",
+            "Burnett Rd and I291 - PTZ",
+            "Burnett Rd and I291 - 360 - 4",
+            "Burnett Rd and I291 - 360 - 3"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.515496,
+          42.180511
+        ]
+      },
+      "properties": {
+        "name": "Burnett Rd & Ludlow Line",
+        "photos": [],
+        "log_stats": {
+          "total_views": 11,
+          "total_duration_minutes": 98.32,
+          "users": [
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Burnett Rd and Ludlow Line - 360 - 2",
+            "Burnett Rd and Ludlow Line - 360 - 4",
+            "Burnett Rd and Ludlow Line - 360 - 3",
+            "Burnett Rd and Ludlow Line - 360 - 1",
+            "Burnett Rd and Ludlow Line - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.606918,
+          42.148289
+        ]
+      },
+      "properties": {
+        "name": "Center St & Exchange St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 10,
+          "total_duration_minutes": 3.05,
+          "users": [
+            "Eric Laflamme",
+            "Mathew Post",
+            "Eric Watson"
+          ],
+          "cameras": [
+            "Center St and Exchange St - 360 - 3",
+            "Center St and Exchange St - 360 - 4",
+            "Center St and Exchange St - 360 - 2",
+            "Center St and Exchange St - 360 - 1",
+            "Center St and Exchange St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.610796,
+          42.142858
+        ]
+      },
+      "properties": {
+        "name": "Center St & Hampden St",
+        "photos": [
+          {
+            "url": "web_images/Center_St_Hampden_St_01jpg",
+            "original_file": "Center_St_Hampden_St_01.jpg"
+          },
+          {
+            "url": "web_images/Center_St_Hampden_St_02jpg",
+            "original_file": "Center_St_Hampden_St_02.jpg"
+          },
+          {
+            "url": "web_images/Center_St_Hampden_St_03jpg",
+            "original_file": "Center_St_Hampden_St_03.jpg"
+          },
+          {
+            "url": "web_images/Center_St_Hampden_St_04jpg",
+            "original_file": "Center_St_Hampden_St_04.jpg"
+          },
+          {
+            "url": "web_images/Center_St_Hampden_St_05jpg",
+            "original_file": "Center_St_Hampden_St_05.jpg"
+          },
+          {
+            "url": "web_images/Center_St_Hampden_St_06jpg",
+            "original_file": "Center_St_Hampden_St_06.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 43,
+          "total_duration_minutes": 442.13,
+          "users": [
+            "Eric Laflamme",
+            "Eric Watson",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Center St and Hampden St - 360 - 2",
+            "Center St and Hampden St - 360 - 1",
+            "Center St and Hampden St - 360 - 4",
+            "Center St and Hampden St - 360 - 3",
+            "Center St and Hampden St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.612164,
+          42.184162
+        ]
+      },
+      "properties": {
+        "name": "CHA - Birch Bark",
+        "photos": [
+          {
+            "url": "web_images/CHA___Birch_Bark_01jpg",
+            "original_file": "CHA_-_Birch_Bark_01.jpg"
+          },
+          {
+            "url": "web_images/CHA___Birch_Bark_02jpg",
+            "original_file": "CHA_-_Birch_Bark_02.jpg"
+          },
+          {
+            "url": "web_images/CHA___Birch_Bark_04jpg",
+            "original_file": "CHA_-_Birch_Bark_04.jpg"
+          },
+          {
+            "url": "web_images/CHA___Birch_Bark_05jpg",
+            "original_file": "CHA_-_Birch_Bark_05.jpg"
+          },
+          {
+            "url": "web_images/CHA___Birch_Bark_06jpg",
+            "original_file": "CHA_-_Birch_Bark_06.jpg"
+          },
+          {
+            "url": "web_images/CHA___Birch_Bark_08jpg",
+            "original_file": "CHA_-_Birch_Bark_08.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 56,
+          "total_duration_minutes": 185.95,
+          "users": [
+            "Eric Laflamme",
+            "Patrick Major",
+            "James Clark",
+            "Mathew Post"
+          ],
+          "cameras": [
+            "D42 Seating / Parking",
+            "D21 Rear Entrance",
+            "D19 Plate Reader",
+            "D33 Front Entrance",
+            "D5 West Entrance",
+            "D11 East Entrance",
+            "D9 Front of Building",
+            "D40 Back Exit",
+            "D4 West Entrance",
+            "D13 Mailboxes, 101 - 102 111 - 112",
+            "D17 103 - 110",
+            "D43 Floor 1 East Stairwell",
+            "D25 106 - 108",
+            "D46 Lobby",
+            "D26 212 - 215",
+            "D31 204 - 209",
+            "D41 Floor 2 West Stairwell",
+            "D29 303 - 310",
+            "D3 312 - 315",
+            "D10 Floor 3 East Stairwell",
+            "D37 301 - 301 , 311 - 312",
+            "D16 Floor 3 Elevator",
+            "D39 501 - 501 , 51 - 512",
+            "D22 513 - 515",
+            "D14 Floor 5 West Stairwell",
+            "D30 Floor 5 Elevator",
+            "D32 504 - 509",
+            "D34 503 - 504 , 509 - 510"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.580461,
+          42.158909
+        ]
+      },
+      "properties": {
+        "name": "CHA - Canterbury",
+        "photos": [
+          {
+            "url": "web_images/CHA___Canterbury_01jpg",
+            "original_file": "CHA_-_Canterbury_01.jpg"
+          },
+          {
+            "url": "web_images/CHA___Canterbury_02jpg",
+            "original_file": "CHA_-_Canterbury_02.jpg"
+          },
+          {
+            "url": "web_images/CHA___Canterbury_03jpg",
+            "original_file": "CHA_-_Canterbury_03.jpg"
+          },
+          {
+            "url": "web_images/CHA___Canterbury_04jpg",
+            "original_file": "CHA_-_Canterbury_04.jpg"
+          },
+          {
+            "url": "web_images/CHA___Canterbury_05jpg",
+            "original_file": "CHA_-_Canterbury_05.jpg"
+          },
+          {
+            "url": "web_images/CHA___Canterbury_06jpg",
+            "original_file": "CHA_-_Canterbury_06.jpg"
+          },
+          {
+            "url": "web_images/CHA___Canterbury_07jpg",
+            "original_file": "CHA_-_Canterbury_07.jpg"
+          },
+          {
+            "url": "web_images/CHA___Canterbury_08jpg",
+            "original_file": "CHA_-_Canterbury_08.jpg"
+          },
+          {
+            "url": "web_images/CHA___Canterbury_09jpg",
+            "original_file": "CHA_-_Canterbury_09.jpg"
+          },
+          {
+            "url": "web_images/CHA___Canterbury_10jpg",
+            "original_file": "CHA_-_Canterbury_10.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 11,
+          "total_duration_minutes": 48.27,
+          "users": [
+            "Mathew Post",
+            "Eric Laflamme",
+            "James Clark"
+          ],
+          "cameras": [
+            "Front Stairwell 2",
+            "14 - Main Floor",
+            "29 - Rear Right Parking",
+            "Front 2",
+            "27B - Left Parking",
+            "Rear 6"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.577878,
+          42.193636
+        ]
+      },
+      "properties": {
+        "name": "CHA - Debra Dr",
+        "photos": [
+          {
+            "url": "web_images/CHA___Debra_Dr_01jpg",
+            "original_file": "CHA_-_Debra_Dr_01.jpg"
+          },
+          {
+            "url": "web_images/CHA___Debra_Dr_02jpg",
+            "original_file": "CHA_-_Debra_Dr_02.jpg"
+          },
+          {
+            "url": "web_images/CHA___Debra_Dr_03jpg",
+            "original_file": "CHA_-_Debra_Dr_03.jpg"
+          },
+          {
+            "url": "web_images/CHA___Debra_Dr_04jpg",
+            "original_file": "CHA_-_Debra_Dr_04.jpg"
+          },
+          {
+            "url": "web_images/CHA___Debra_Dr_06jpg",
+            "original_file": "CHA_-_Debra_Dr_06.jpg"
+          },
+          {
+            "url": "web_images/CHA___Debra_Dr_07jpg",
+            "original_file": "CHA_-_Debra_Dr_07.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 50,
+          "total_duration_minutes": 24.95,
+          "users": [
+            "Eric Laflamme",
+            "Mathew Post",
+            "James Clark",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Ext 78 Debra Parking Side",
+            "Ext 100 Debra Street Side",
+            "Ext 84 Debra Street/Dumpster",
+            "Ext 96 Debra Parking/Dumpster",
+            "Ext 90 Debra Street Side",
+            "Ext 78 Debra Street Side"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.608606,
+          42.142004
+        ]
+      },
+      "properties": {
+        "name": "34 Stonina",
+        "photos": [],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.609086,
+          42.141956
+        ]
+      },
+      "properties": {
+        "name": "22 Stonina",
+        "photos": [
+          {
+            "url": "web_images/22_Stonina_01jpg",
+            "original_file": "22_Stonina_01.jpg"
+          }
+        ],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.609992,
+          42.142002
+        ]
+      },
+      "properties": {
+        "name": "20 Plante",
+        "photos": [],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.607778,
+          42.142012
+        ]
+      },
+      "properties": {
+        "name": "62 Stonina",
+        "photos": [
+          {
+            "url": "web_images/62_Stonina_01jpg",
+            "original_file": "62_Stonina_01.jpg"
+          },
+          {
+            "url": "web_images/62_Stonina_02jpg",
+            "original_file": "62_Stonina_02.jpg"
+          },
+          {
+            "url": "web_images/62_Stonina_03jpg",
+            "original_file": "62_Stonina_03.jpg"
+          },
+          {
+            "url": "web_images/62_Stonina_04jpg",
+            "original_file": "62_Stonina_04.jpg"
+          }
+        ],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.607177,
+          42.141773
+        ]
+      },
+      "properties": {
+        "name": "83 Stonina",
+        "photos": [],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.609394,
+          42.142257
+        ]
+      },
+      "properties": {
+        "name": "31 Plante",
+        "photos": [
+          {
+            "url": "web_images/31_Plante_01jpg",
+            "original_file": "31_Plante_01.jpg"
+          }
+        ],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.607038,
+          42.142293
+        ]
+      },
+      "properties": {
+        "name": "94 Stonina",
+        "photos": [],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60916,
+          42.141535
+        ]
+      },
+      "properties": {
+        "name": "Cabot Manor Apartments Office",
+        "photos": [
+          {
+            "url": "web_images/Cabot_Manor_Apartments_Office_01jpg",
+            "original_file": "Cabot_Manor_Apartments_Office_01.jpg"
+          },
+          {
+            "url": "web_images/Cabot_Manor_Apartments_Office_02jpg",
+            "original_file": "Cabot_Manor_Apartments_Office_02.jpg"
+          }
+        ],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.609704,
+          42.142565
+        ]
+      },
+      "properties": {
+        "name": "34 Plante",
+        "photos": [
+          {
+            "url": "web_images/34_Plante_01jpg",
+            "original_file": "34_Plante_01.jpg"
+          },
+          {
+            "url": "web_images/34_Plante_02jpg",
+            "original_file": "34_Plante_02.jpg"
+          },
+          {
+            "url": "web_images/34_Plante_03jpg",
+            "original_file": "34_Plante_03.jpg"
+          },
+          {
+            "url": "web_images/34_Plante_04jpg",
+            "original_file": "34_Plante_04.jpg"
+          }
+        ],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.606421,
+          42.142223
+        ]
+      },
+      "properties": {
+        "name": "107 Stonina Back",
+        "photos": [],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60916,
+          42.141535
+        ]
+      },
+      "properties": {
+        "name": "27 Stonina",
+        "photos": [],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.608148,
+          42.141598
+        ]
+      },
+      "properties": {
+        "name": "55 Stonina",
+        "photos": [],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.607177,
+          42.141773
+        ]
+      },
+      "properties": {
+        "name": "73 Stonina",
+        "photos": [],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.623704,
+          42.170889
+        ]
+      },
+      "properties": {
+        "name": "Chicopee & McKinstry",
+        "photos": [
+          {
+            "url": "web_images/Chicopee_McKinstry_01jpg",
+            "original_file": "Chicopee_McKinstry_01.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_McKinstry_02jpg",
+            "original_file": "Chicopee_McKinstry_02.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_McKinstry_03jpg",
+            "original_file": "Chicopee_McKinstry_03.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_McKinstry_04jpg",
+            "original_file": "Chicopee_McKinstry_04.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 36,
+          "total_duration_minutes": 65.78,
+          "users": [
+            "Eric Watson",
+            "Mathew Post",
+            "James Clark",
+            "Patrick Major",
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Chicopee & McKinstry - 360 - 3",
+            "Chicopee & McKinstry - PTZ",
+            "Chicopee & McKinstry - 360 - 1",
+            "Chicopee & McKinstry - 360 - 4",
+            "Chicopee & McKinstry - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.613858,
+          42.160316
+        ]
+      },
+      "properties": {
+        "name": "Chicopee & Wilson",
+        "photos": [
+          {
+            "url": "web_images/Chicopee_Wilson_01jpg",
+            "original_file": "Chicopee_Wilson_01.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 33,
+          "total_duration_minutes": 211.85,
+          "users": [
+            "James Clark",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Chicopee & Wilson - 360 - 4",
+            "Chicopee & Wilson - 360 - 3",
+            "Chicopee & Wilson - 360 - 1",
+            "Chicopee & Wilson - 360 - 2",
+            "Chicopee & Wilson - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.606545,
+          42.148563
+        ]
+      },
+      "properties": {
+        "name": "Chicopee City Hall",
+        "photos": [],
+        "log_stats": {
+          "total_views": 42,
+          "total_duration_minutes": 101.82,
+          "users": [
+            "Eric Laflamme",
+            "Mathew Post",
+            "Eric Watson"
+          ],
+          "cameras": [
+            "City Hall Entrance Ramp",
+            "City Hall / Annex Alley",
+            "City Hall Side Parking",
+            "1. City Hall Entrance Ramp"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.599519,
+          42.148399
+        ]
+      },
+      "properties": {
+        "name": "Chicopee Public Library",
+        "photos": [
+          {
+            "url": "web_images/Chicopee_Public_Library_01jpg",
+            "original_file": "Chicopee_Public_Library_01.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_Public_Library_02jpg",
+            "original_file": "Chicopee_Public_Library_02.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_Public_Library_03jpg",
+            "original_file": "Chicopee_Public_Library_03.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_Public_Library_04jpg",
+            "original_file": "Chicopee_Public_Library_04.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_Public_Library_05jpg",
+            "original_file": "Chicopee_Public_Library_05.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_Public_Library_06jpg",
+            "original_file": "Chicopee_Public_Library_06.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_Public_Library_07jpg",
+            "original_file": "Chicopee_Public_Library_07.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_Public_Library_09jpg",
+            "original_file": "Chicopee_Public_Library_09.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_Public_Library_10jpg",
+            "original_file": "Chicopee_Public_Library_10.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 8,
+          "total_duration_minutes": 41.87,
+          "users": [
+            "Eric Watson",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Library"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.613783,
+          42.161787
+        ]
+      },
+      "properties": {
+        "name": "Chicopee St & Meadow St (North)",
+        "photos": [],
+        "log_stats": {
+          "total_views": 24,
+          "total_duration_minutes": 70.9,
+          "users": [
+            "Patrick Major",
+            "Eric Laflamme",
+            "James Clark",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Chicopee St and Meadow St - PTZ",
+            "Chicopee St and Meadow St - 360 - 4",
+            "Chicopee St and Meadow St - 360 - 1",
+            "Chicopee St and Meadow St - 360 - 3",
+            "Chicopee St and Meadow St - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.600119,
+          42.192394
+        ]
+      },
+      "properties": {
+        "name": "Chicopee St & Prospect St",
+        "photos": [
+          {
+            "url": "web_images/Chicopee_St_Prospect_St_01jpg",
+            "original_file": "Chicopee_St_Prospect_St_01.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_St_Prospect_St_02jpg",
+            "original_file": "Chicopee_St_Prospect_St_02.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_St_Prospect_St_03jpg",
+            "original_file": "Chicopee_St_Prospect_St_03.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_St_Prospect_St_04jpg",
+            "original_file": "Chicopee_St_Prospect_St_04.jpg"
+          },
+          {
+            "url": "web_images/Chicopee_St_Prospect_St_05jpg",
+            "original_file": "Chicopee_St_Prospect_St_05.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 34,
+          "total_duration_minutes": 237.15,
+          "users": [
+            "Eric Laflamme",
+            "Patrick Major",
+            "Mathew Post",
+            "William Schwarz",
+            "James Clark",
+            "Eric Watson"
+          ],
+          "cameras": [
+            "Chicopee St and Prospect St - 360 - 1",
+            "Chicopee St and Prospect St - 360 - 4",
+            "Chicopee St and Prospect St - 360 - 3",
+            "Chicopee St and Prospect St - 360 - 2",
+            "Chicopee St and Prospect St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.616114,
+          42.172427
+        ]
+      },
+      "properties": {
+        "name": "Chicopee Village Townhomes",
+        "photos": [],
+        "log_stats": {
+          "total_views": 63,
+          "total_duration_minutes": 317.15,
+          "users": [
+            "James Clark",
+            "Eric Laflamme",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Cam 05",
+            "Cam 08",
+            "Cam 06",
+            "Cam 07",
+            "Cam 02",
+            "Cam 03",
+            "1. Cam 06"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.606313,
+          42.148406
+        ]
+      },
+      "properties": {
+        "name": "City Hall Parking",
+        "photos": [
+          {
+            "url": "web_images/City_Hall_Parking_01jpg",
+            "original_file": "City_Hall_Parking_01.jpg"
+          },
+          {
+            "url": "web_images/City_Hall_Parking_02jpg",
+            "original_file": "City_Hall_Parking_02.jpg"
+          },
+          {
+            "url": "web_images/City_Hall_Parking_03jpg",
+            "original_file": "City_Hall_Parking_03.jpg"
+          },
+          {
+            "url": "web_images/City_Hall_Parking_04jpg",
+            "original_file": "City_Hall_Parking_04.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 50,
+          "total_duration_minutes": 93.3,
+          "users": [
+            "Mathew Post",
+            "Eric Watson",
+            "Eric Laflamme"
+          ],
+          "cameras": [
+            "City Hall Parking - Near - PTZ",
+            "City Hall Parking - Near - 360 - 1",
+            "City Hall Parking - Near - 360 - 4",
+            "City Hall Parking - Near - 360 - 2",
+            "City Hall Parking - Near - 360 - 3",
+            "City Hall Parking - Far - 360 - 3",
+            "City Hall Parking - Far - 360 - 4",
+            "City Hall Parking - Far - 360 - 1",
+            "City Hall Parking - Far - 360 - 2",
+            "City Hall Parking - Far - PTZ",
+            "City Hall - Upper Lot"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.607685,
+          42.151028
+        ]
+      },
+      "properties": {
+        "name": "Davitt Bridge",
+        "photos": [
+          {
+            "url": "web_images/Davitt_Bridge_01jpg",
+            "original_file": "Davitt_Bridge_01.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 40,
+          "total_duration_minutes": 14.05,
+          "users": [
+            "Mathew Post",
+            "Eric Watson",
+            "William Schwarz",
+            "James Clark"
+          ],
+          "cameras": [
+            "Davitt Bridge - 360 - 4",
+            "Davitt Bridge - 360 - 2",
+            "Davitt Bridge - 360 - 3",
+            "Davitt Bridge - PTZ",
+            "Davitt Bridge - 360 - 1"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60881,
+          42.147957
+        ]
+      },
+      "properties": {
+        "name": "Exchange St & Cabot St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 10,
+          "total_duration_minutes": 29.4,
+          "users": [
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Exchange St and Cabot St - PTZ",
+            "Exchange St and Cabot St - 360 - 1",
+            "Exchange St and Cabot St - 360 - 3",
+            "Exchange St and Cabot St - 360 - 4"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.609897,
+          42.147796
+        ]
+      },
+      "properties": {
+        "name": "Exchange St & Perkins St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 1,
+          "total_duration_minutes": 1.03,
+          "users": [
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Exchange St and Perkins St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.613518,
+          42.183183
+        ]
+      },
+      "properties": {
+        "name": "Fire Station 5",
+        "photos": [],
+        "log_stats": {
+          "total_views": 17,
+          "total_duration_minutes": 17.43,
+          "users": [
+            "Patrick Major",
+            "Mathew Post",
+            "Eric Laflamme"
+          ],
+          "cameras": [
+            "Fire Station 5 - 360 - 3",
+            "Fire Station 5 - 360 - 2",
+            "Fire Station 5 - 360 - 4",
+            "Fire Station 5 - 360 - 1",
+            "Fire Station 5 - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.607834,
+          42.148906
+        ]
+      },
+      "properties": {
+        "name": "Front St & Chicopee High School",
+        "photos": [],
+        "log_stats": {
+          "total_views": 5,
+          "total_duration_minutes": 11.82,
+          "users": [
+            "William Schwarz",
+            "James Clark"
+          ],
+          "cameras": [
+            "Front St & Chicopee High School - PTZ",
+            "Front St & Chicopee High School - 360 - 4"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.584083,
+          42.153252
+        ]
+      },
+      "properties": {
+        "name": "Front St & Grove St",
+        "photos": [
+          {
+            "url": "web_images/Front_St_Grove_St_01jpg",
+            "original_file": "Front_St_Grove_St_01.jpg"
+          },
+          {
+            "url": "web_images/Front_St_Grove_St_02jpg",
+            "original_file": "Front_St_Grove_St_02.jpg"
+          },
+          {
+            "url": "web_images/Front_St_Grove_St_03jpg",
+            "original_file": "Front_St_Grove_St_03.jpg"
+          },
+          {
+            "url": "web_images/Front_St_Grove_St_04jpg",
+            "original_file": "Front_St_Grove_St_04.jpg"
+          },
+          {
+            "url": "web_images/Front_St_Grove_St_05jpg",
+            "original_file": "Front_St_Grove_St_05.jpg"
+          },
+          {
+            "url": "web_images/Front_St_Grove_St_06jpg",
+            "original_file": "Front_St_Grove_St_06.jpg"
+          },
+          {
+            "url": "web_images/Front_St_Grove_St_07jpg",
+            "original_file": "Front_St_Grove_St_07.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 7,
+          "total_duration_minutes": 56.15,
+          "users": [
+            "Eric Watson",
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "1. Front St and Grove St - 360 - 3",
+            "Front St and Grove St - PTZ",
+            "Front St and Grove St - 360 - 2",
+            "Front St and Grove St - 360 - 4",
+            "Front St and Grove St - 360 - 3",
+            "Front St and Grove St - 360 - 1"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.587123,
+          42.174515
+        ]
+      },
+      "properties": {
+        "name": "Granby Rd & Montgomery St",
+        "photos": [
+          {
+            "url": "web_images/Granby_Rd_Montgomery_St_01jpg",
+            "original_file": "Granby_Rd_Montgomery_St_01.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 41,
+          "total_duration_minutes": 369.05,
+          "users": [
+            "Eric Laflamme",
+            "Mathew Post",
+            "James Clark",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Granby Rd and Montgomery St - 360 - 3",
+            "Granby Rd and Montgomery St - 360 - 2",
+            "Granby Rd and Montgomery St - 360 - 4",
+            "Granby Rd and Montgomery St - 360 - 1",
+            "Granby Rd and Montgomery St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.598843,
+          42.173162
+        ]
+      },
+      "properties": {
+        "name": "Grattan St & Mckinstry Ave",
+        "photos": [],
+        "log_stats": {
+          "total_views": 27,
+          "total_duration_minutes": 61.83,
+          "users": [
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Grattan St and Mckinstry Ave - 360 - 2",
+            "Grattan St and Mckinstry Ave - 360 - 1",
+            "Grattan St and Mckinstry Ave - PTZ",
+            "Grattan St and Mckinstry Ave - 360 - 4",
+            "Grattan St and Mckinstry Ave - 360 - 3"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.610894,
+          42.182859
+        ]
+      },
+      "properties": {
+        "name": "Grattan St & Meadow St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 11,
+          "total_duration_minutes": 12.52,
+          "users": [
+            "Patrick Major",
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Grattan St and Meadow St - 360 - 3",
+            "Grattan St and Meadow St - PTZ",
+            "Grattan St and Meadow St - 360 - 2",
+            "Grattan St and Meadow St - 360 - 4",
+            "Grattan St and Meadow St - 360 - 1"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.585268,
+          42.154835
+        ]
+      },
+      "properties": {
+        "name": "Grove St & Church St",
+        "photos": [
+          {
+            "url": "web_images/Grove_St_Church_St_01jpg",
+            "original_file": "Grove_St_Church_St_01.jpg"
+          },
+          {
+            "url": "web_images/Grove_St_Church_St_02jpg",
+            "original_file": "Grove_St_Church_St_02.jpg"
+          },
+          {
+            "url": "web_images/Grove_St_Church_St_03jpg",
+            "original_file": "Grove_St_Church_St_03.jpg"
+          },
+          {
+            "url": "web_images/Grove_St_Church_St_04jpg",
+            "original_file": "Grove_St_Church_St_04.jpg"
+          },
+          {
+            "url": "web_images/Grove_St_Church_St_05jpg",
+            "original_file": "Grove_St_Church_St_05.jpg"
+          },
+          {
+            "url": "web_images/Grove_St_Church_St_06jpg",
+            "original_file": "Grove_St_Church_St_06.jpg"
+          },
+          {
+            "url": "web_images/Grove_St_Church_St_07jpg",
+            "original_file": "Grove_St_Church_St_07.jpg"
+          },
+          {
+            "url": "web_images/Grove_St_Church_St_08jpg",
+            "original_file": "Grove_St_Church_St_08.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 32,
+          "total_duration_minutes": 21.57,
+          "users": [
+            "James Clark",
+            "Eric Watson",
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Grove St and Church St - 360 - 3",
+            "Grove St and Church St - 360 - 4",
+            "Grove St and Church St - 360 - 1",
+            "Grove St and Church St - 360 - 2",
+            "Grove St and Church St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.600231,
+          42.132603
+        ]
+      },
+      "properties": {
+        "name": "Hampden St & Springfield St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 8,
+          "total_duration_minutes": 18.47,
+          "users": [
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Hampden St and Springfield St - 360 - 4",
+            "Hampden St and Springfield St - PTZ",
+            "Hampden St and Springfield St - 360 - 3",
+            "Hampden St and Springfield St - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.577209,
+          42.176815
+        ]
+      },
+      "properties": {
+        "name": "Hannoush Jewelers",
+        "photos": [
+          {
+            "url": "web_images/Hannoush_Jewelers_01jpg",
+            "original_file": "Hannoush_Jewelers_01.jpg"
+          },
+          {
+            "url": "web_images/Hannoush_Jewelers_02jpg",
+            "original_file": "Hannoush_Jewelers_02.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 27,
+          "total_duration_minutes": 105.9,
+          "users": [
+            "James Clark",
+            "Mathew Post",
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Hannoush Jewelers - Cam 3",
+            "Hannoush Jewelers - Cam 2",
+            "Hannoush Jewelers - Cam 1",
+            "1. Hannoush Jewelers - Cam 2",
+            "1. Hannoush Jewelers - Cam 3"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.577048,
+          42.178488
+        ]
+      },
+      "properties": {
+        "name": "Hollister Jewelry",
+        "photos": [],
+        "log_stats": {
+          "total_views": 87,
+          "total_duration_minutes": 1044.42,
+          "users": [
+            "James Clark",
+            "Eric Laflamme",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Camera 2",
+            "Camera 3",
+            "1. Camera 2",
+            "1. Camera 3",
+            "Camera 12",
+            "Camera 11"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.608517,
+          42.151415
+        ]
+      },
+      "properties": {
+        "name": "Jenrose Wines & Liquors",
+        "photos": [],
+        "log_stats": {
+          "total_views": 35,
+          "total_duration_minutes": 103.9,
+          "users": [
+            "Eric Laflamme",
+            "Mathew Post",
+            "James Clark",
+            "Patrick Major",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Camera 01",
+            "Camera 10"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.620791,
+          42.153356
+        ]
+      },
+      "properties": {
+        "name": "Jones Ferry - WPC",
+        "photos": [
+          {
+            "url": "web_images/Jones_Ferry___WPC_01jpg",
+            "original_file": "Jones_Ferry_-_WPC_01.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 6,
+          "total_duration_minutes": 0.9,
+          "users": [
+            "Eric Watson",
+            "James Clark"
+          ],
+          "cameras": [
+            "Jones Ferry - WPC - 360 - 4",
+            "Jones Ferry - WPC - PTZ",
+            "Jones Ferry - WPC - 360 - 2",
+            "Jones Ferry - WPC - 360 - 1",
+            "Jones Ferry - WPC - 360 - 3"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.580942,
+          42.15075
+        ]
+      },
+      "properties": {
+        "name": "Lincoln Grove Park",
+        "photos": [],
+        "log_stats": {
+          "total_views": 19,
+          "total_duration_minutes": 21.23,
+          "users": [
+            "Eric Watson",
+            "Eric Laflamme",
+            "Mathew Post",
+            "Patrick Major"
+          ],
+          "cameras": [
+            "Lincoln Grove Park - 360 - 1",
+            "1. Lincoln Grove Park - PTZ",
+            "Lincoln Grove Park - PTZ",
+            "Lincoln Grove Park - 360 - 4",
+            "Lincoln Grove Park - 360 - 3",
+            "Lincoln Grove Park - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.548128,
+          42.165129
+        ]
+      },
+      "properties": {
+        "name": "Liquor Mart",
+        "photos": [],
+        "log_stats": {
+          "total_views": 10,
+          "total_duration_minutes": 64.58,
+          "users": [
+            "James Clark",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Liquor Mart - Cam 3",
+            "Liquor Mart - Cam 4",
+            "Liquor Mart - Cam 2",
+            "Liquor Mart - Cam 5"
+          ]
+        },
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.606545,
+          42.148563
+        ]
+      },
+      "properties": {
+        "name": "Market Square",
+        "photos": [],
+        "log_stats": {
+          "total_views": 19,
+          "total_duration_minutes": 16.03,
+          "users": [
+            "Eric Laflamme",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Market Square  - 360 - 1",
+            "Market Square  - 360 - 3",
+            "Market Square  - 360 - 4",
+            "Market Square  - 360 - 2",
+            "Market Square - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.590922,
+          42.179888
+        ]
+      },
+      "properties": {
+        "name": "McKinstry Market Gardens",
+        "photos": [],
+        "log_stats": {
+          "total_views": 9,
+          "total_duration_minutes": 2.17,
+          "users": [
+            "Eric Watson",
+            "James Clark"
+          ],
+          "cameras": [
+            "Customer Parking",
+            "Employee Parking",
+            "Front"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.614561,
+          42.171505
+        ]
+      },
+      "properties": {
+        "name": "Meadow & McKinstry",
+        "photos": [
+          {
+            "url": "web_images/Meadow_McKinstry_01jpg",
+            "original_file": "Meadow_McKinstry_01.jpg"
+          },
+          {
+            "url": "web_images/Meadow_McKinstry_02jpg",
+            "original_file": "Meadow_McKinstry_02.jpg"
+          },
+          {
+            "url": "web_images/Meadow_McKinstry_05jpg",
+            "original_file": "Meadow_McKinstry_05.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 30,
+          "total_duration_minutes": 1169.02,
+          "users": [
+            "Eric Laflamme",
+            "James Clark",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Meadow & McKinstry - 360 - 1",
+            "Meadow & McKinstry - 360 - 2",
+            "Meadow & McKinstry - 360 - 3",
+            "Meadow & McKinstry - 360 - 4",
+            "Meadow & McKinstry - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.623249,
+          42.153371
+        ]
+      },
+      "properties": {
+        "name": "Medina St Boat Ramp",
+        "photos": [
+          {
+            "url": "web_images/Medina_St_Boat_Ramp_01jpg",
+            "original_file": "Medina_St_Boat_Ramp_01.jpg"
+          },
+          {
+            "url": "web_images/Medina_St_Boat_Ramp_02jpg",
+            "original_file": "Medina_St_Boat_Ramp_02.jpg"
+          },
+          {
+            "url": "web_images/Medina_St_Boat_Ramp_04jpg",
+            "original_file": "Medina_St_Boat_Ramp_04.jpg"
+          },
+          {
+            "url": "web_images/Medina_St_Boat_Ramp_06jpg",
+            "original_file": "Medina_St_Boat_Ramp_06.jpg"
+          },
+          {
+            "url": "web_images/Medina_St_Boat_Ramp_07jpg",
+            "original_file": "Medina_St_Boat_Ramp_07.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 2,
+          "total_duration_minutes": 2.32,
+          "users": [
+            "Eric Laflamme"
+          ],
+          "cameras": [
+            "Medina St Boat Ramp - 360 - 3"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.576535,
+          42.173321
+        ]
+      },
+      "properties": {
+        "name": "Memorial Dr & Mass Pike",
+        "photos": [
+          {
+            "url": "web_images/Memorial_Dr_Mass_Pike_01jpg",
+            "original_file": "Memorial_Dr_Mass_Pike_01.jpg"
+          },
+          {
+            "url": "web_images/Memorial_Dr_Mass_Pike_02jpg",
+            "original_file": "Memorial_Dr_Mass_Pike_02.jpg"
+          },
+          {
+            "url": "web_images/Memorial_Dr_Mass_Pike_03jpg",
+            "original_file": "Memorial_Dr_Mass_Pike_03.jpg"
+          },
+          {
+            "url": "web_images/Memorial_Dr_Mass_Pike_04jpg",
+            "original_file": "Memorial_Dr_Mass_Pike_04.jpg"
+          },
+          {
+            "url": "web_images/Memorial_Dr_Mass_Pike_05jpg",
+            "original_file": "Memorial_Dr_Mass_Pike_05.jpg"
+          },
+          {
+            "url": "web_images/Memorial_Dr_Mass_Pike_06jpg",
+            "original_file": "Memorial_Dr_Mass_Pike_06.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 55,
+          "total_duration_minutes": 290.23,
+          "users": [
+            "Eric Laflamme",
+            "James Clark",
+            "Mathew Post",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Memorial Dr and Mass Pike - 360 - 4",
+            "Memorial Dr and Mass Pike - 360 - 2",
+            "Memorial Dr and Mass Pike - 360 - 3",
+            "Memorial Dr and Mass Pike - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.572114,
+          42.212452
+        ]
+      },
+      "properties": {
+        "name": "Memorial Dr & New Ludlow Rd",
+        "photos": [
+          {
+            "url": "web_images/Memorial_Dr_New_Ludlow_Rd_01jpg",
+            "original_file": "Memorial_Dr_New_Ludlow_Rd_01.jpg"
+          },
+          {
+            "url": "web_images/Memorial_Dr_New_Ludlow_Rd_02jpg",
+            "original_file": "Memorial_Dr_New_Ludlow_Rd_02.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 13,
+          "total_duration_minutes": 28.13,
+          "users": [
+            "Eric Laflamme",
+            "William Schwarz",
+            "Mathew Post"
+          ],
+          "cameras": [
+            "Memorial Dr and New Ludlow Rd - 360 - 3",
+            "Memorial Dr and New Ludlow Rd - 360 - 1",
+            "Memorial Dr and New Ludlow Rd - 360 - 4",
+            "Memorial Dr and New Ludlow Rd - 360 - 2",
+            "Memorial Dr and New Ludlow Rd - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.582069,
+          42.160796
+        ]
+      },
+      "properties": {
+        "name": "Montgomery St & Grattan St",
+        "photos": [
+          {
+            "url": "web_images/Montgomery_St_Grattan_St_01jpg",
+            "original_file": "Montgomery_St_Grattan_St_01.jpg"
+          },
+          {
+            "url": "web_images/Montgomery_St_Grattan_St_02jpg",
+            "original_file": "Montgomery_St_Grattan_St_02.jpg"
+          },
+          {
+            "url": "web_images/Montgomery_St_Grattan_St_03jpg",
+            "original_file": "Montgomery_St_Grattan_St_03.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 24,
+          "total_duration_minutes": 65.6,
+          "users": [
+            "Eric Laflamme",
+            "Mathew Post",
+            "James Clark",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "1. Montgomery St and Grattan St - 360 - 2",
+            "1. Montgomery St and Grattan St - PTZ",
+            "Montgomery St and Grattan St - 360 - 4",
+            "Montgomery St and Grattan St - PTZ",
+            "Montgomery St and Grattan St - 360 - 1",
+            "Montgomery St and Grattan St - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.581817,
+          42.161487
+        ]
+      },
+      "properties": {
+        "name": "Montgomery St & Sheridan St",
+        "photos": [
+          {
+            "url": "web_images/Montgomery_St_Sheridan_St_01jpg",
+            "original_file": "Montgomery_St_Sheridan_St_01.jpg"
+          },
+          {
+            "url": "web_images/Montgomery_St_Sheridan_St_02jpg",
+            "original_file": "Montgomery_St_Sheridan_St_02.jpg"
+          },
+          {
+            "url": "web_images/Montgomery_St_Sheridan_St_03jpg",
+            "original_file": "Montgomery_St_Sheridan_St_03.jpg"
+          },
+          {
+            "url": "web_images/Montgomery_St_Sheridan_St_04jpg",
+            "original_file": "Montgomery_St_Sheridan_St_04.jpg"
+          },
+          {
+            "url": "web_images/Montgomery_St_Sheridan_St_05jpg",
+            "original_file": "Montgomery_St_Sheridan_St_05.jpg"
+          },
+          {
+            "url": "web_images/Montgomery_St_Sheridan_St_06jpg",
+            "original_file": "Montgomery_St_Sheridan_St_06.jpg"
+          },
+          {
+            "url": "web_images/Montgomery_St_Sheridan_St_07jpg",
+            "original_file": "Montgomery_St_Sheridan_St_07.jpg"
+          },
+          {
+            "url": "web_images/Montgomery_St_Sheridan_St_08jpg",
+            "original_file": "Montgomery_St_Sheridan_St_08.jpg"
+          },
+          {
+            "url": "web_images/Montgomery_St_Sheridan_St_09jpg",
+            "original_file": "Montgomery_St_Sheridan_St_09.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 17,
+          "total_duration_minutes": 23.12,
+          "users": [
+            "Eric Laflamme",
+            "Mathew Post",
+            "James Clark",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Montgomery St and Sheridan St - PTZ",
+            "Montgomery St and Sheridan St - 360 - 1",
+            "Montgomery St and Sheridan St - 360 - 3",
+            "Montgomery St and Sheridan St - 360 - 4",
+            "Montgomery St and Sheridan St - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.613308,
+          42.184457
+        ]
+      },
+      "properties": {
+        "name": "Nash Park",
+        "photos": [],
+        "log_stats": {
+          "total_views": 5,
+          "total_duration_minutes": 10.67,
+          "users": [
+            "Patrick Major"
+          ],
+          "cameras": [
+            "Nash Park - 360 - 3",
+            "Nash Park - 360 - 1",
+            "Nash Park - 360 - 4",
+            "Nash Park - 360 - 2",
+            "Nash Park - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.601504,
+          42.137942
+        ]
+      },
+      "properties": {
+        "name": "Newbury St & Springfield St",
+        "photos": [
+          {
+            "url": "web_images/Newbury_St_Springfield_St_01jpg",
+            "original_file": "Newbury_St_Springfield_St_01.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 11,
+          "total_duration_minutes": 30.28,
+          "users": [
+            "Eric Watson",
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Newbury St and Springfield St - 360 - 3",
+            "Newbury St and Springfield St - 360 - 4",
+            "Newbury St and Springfield St - 360 - 1",
+            "Newbury St and Springfield St - 360 - 2",
+            "Newbury St and Springfield St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.610209,
+          42.144943
+        ]
+      },
+      "properties": {
+        "name": "Park St & Chestnut St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 4,
+          "total_duration_minutes": 0.2,
+          "users": [
+            "James Clark"
+          ],
+          "cameras": [
+            "Park St and Chestnut St - PTZ",
+            "Park St and Chestnut St - 360 - 4",
+            "Park St and Chestnut St - 360 - 1",
+            "Park St and Chestnut St - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.585643,
+          42.159491
+        ]
+      },
+      "properties": {
+        "name": "Rivermills Parking",
+        "photos": [],
+        "log_stats": {
+          "total_views": 5,
+          "total_duration_minutes": 0.75,
+          "users": [
+            "Patrick Major",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Rivermills Upper Lot East - 360 - 2",
+            "Rivermills Upper Lot East - 360 - 1",
+            "Rivermills Upper Lot East - 360 - 4"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.608606,
+          42.186369
+        ]
+      },
+      "properties": {
+        "name": "Rivers Park",
+        "photos": [
+          {
+            "url": "web_images/Rivers_Park_01jpg",
+            "original_file": "Rivers_Park_01.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 8,
+          "total_duration_minutes": 13.5,
+          "users": [
+            "Eric Laflamme",
+            "Patrick Major"
+          ],
+          "cameras": [
+            "Rivers Park - PTZ",
+            "Rivers Park - 360 - 3",
+            "Rivers Park - 360 - 4",
+            "Rivers Park - 360 - 2",
+            "Rivers Park - 360 - 1"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.608517,
+          42.151415
+        ]
+      },
+      "properties": {
+        "name": "Sam's Convenience (Chicopee St)",
+        "photos": [],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.614381,
+          42.164983
+        ]
+      },
+      "properties": {
+        "name": "Sam's Convenience (Meadow St)",
+        "photos": [
+          {
+            "url": "web_images/Sam_s_Convenience_Meadow_St_01jpg",
+            "original_file": "Sam_s_Convenience_Meadow_St_01.jpg"
+          },
+          {
+            "url": "web_images/Sam_s_Convenience_Meadow_St_02jpg",
+            "original_file": "Sam_s_Convenience_Meadow_St_02.jpg"
+          },
+          {
+            "url": "web_images/Sam_s_Convenience_Meadow_St_03jpg",
+            "original_file": "Sam_s_Convenience_Meadow_St_03.jpg"
+          },
+          {
+            "url": "web_images/Sam_s_Convenience_Meadow_St_04jpg",
+            "original_file": "Sam_s_Convenience_Meadow_St_04.jpg"
+          },
+          {
+            "url": "web_images/Sam_s_Convenience_Meadow_St_05jpg",
+            "original_file": "Sam_s_Convenience_Meadow_St_05.jpg"
+          },
+          {
+            "url": "web_images/Sam_s_Convenience_Meadow_St_06jpg",
+            "original_file": "Sam_s_Convenience_Meadow_St_06.jpg"
+          },
+          {
+            "url": "web_images/Sam_s_Convenience_Meadow_St_07jpg",
+            "original_file": "Sam_s_Convenience_Meadow_St_07.jpg"
+          }
+        ],
+        "log_stats": {}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.618649,
+          42.164828
+        ]
+      },
+      "properties": {
+        "name": "Sarah Jane Park",
+        "photos": [
+          {
+            "url": "web_images/Sarah_Jane_Park_01jpg",
+            "original_file": "Sarah_Jane_Park_01.jpg"
+          },
+          {
+            "url": "web_images/Sarah_Jane_Park_02jpg",
+            "original_file": "Sarah_Jane_Park_02.jpg"
+          },
+          {
+            "url": "web_images/Sarah_Jane_Park_05jpg",
+            "original_file": "Sarah_Jane_Park_05.jpg"
+          },
+          {
+            "url": "web_images/Sarah_Jane_Park_06jpg",
+            "original_file": "Sarah_Jane_Park_06.jpg"
+          },
+          {
+            "url": "web_images/Sarah_Jane_Park_07jpg",
+            "original_file": "Sarah_Jane_Park_07.jpg"
+          },
+          {
+            "url": "web_images/Sarah_Jane_Park_08jpg",
+            "original_file": "Sarah_Jane_Park_08.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 6,
+          "total_duration_minutes": 54.85,
+          "users": [
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Sarah Jane Park - PTZ",
+            "Sarah Jane Park - 360 - 2",
+            "Sarah Jane Park - 360 - 4",
+            "Sarah Jane Park - 360 - 1",
+            "Sarah Jane Entrance - LPR"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.611255,
+          42.145722
+        ]
+      },
+      "properties": {
+        "name": "School St & Chestnut St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 5,
+          "total_duration_minutes": 1.65,
+          "users": [
+            "Mathew Post"
+          ],
+          "cameras": [
+            "School St and Chestnut St - 360 - 3",
+            "School St and Chestnut St - 360 - 4",
+            "School St and Chestnut St - PTZ",
+            "School St and Chestnut St - 360 - 1",
+            "School St and Chestnut St - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60993,
+          42.14673
+        ]
+      },
+      "properties": {
+        "name": "School St & Dwight St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 12,
+          "total_duration_minutes": 38.3,
+          "users": [
+            "Eric Laflamme"
+          ],
+          "cameras": [
+            "School St and Dwight St - 360 - 2",
+            "School St and Dwight St - 360 - 1",
+            "School St and Dwight St - 360 - 3",
+            "School St and Dwight St - 360 - 4",
+            "School St and Dwight St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.608517,
+          42.151415
+        ]
+      },
+      "properties": {
+        "name": "Sign Techinique",
+        "photos": [],
+        "log_stats": {
+          "total_views": 53,
+          "total_duration_minutes": 2790.6,
+          "users": [
+            "Eric Laflamme",
+            "Eric Watson",
+            "Patrick Major",
+            "Mathew Post",
+            "William Schwarz",
+            "James Clark"
+          ],
+          "cameras": [
+            "Sign Technique Camera 2",
+            "Sign Technique Camera 12",
+            "Sign Technique Camera 8",
+            "Sign Technique Camera 13"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.606965,
+          42.147983
+        ]
+      },
+      "properties": {
+        "name": "Springfield St & Center St",
+        "photos": [],
+        "log_stats": {
+          "total_views": 1,
+          "total_duration_minutes": 0.18,
+          "users": [
+            "Eric Watson"
+          ],
+          "cameras": [
+            "Springfield St and Center St - PTZ"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.586156,
+          42.144819
+        ]
+      },
+      "properties": {
+        "name": "Szot Park",
+        "photos": [
+          {
+            "url": "web_images/Szot_Park_01jpg",
+            "original_file": "Szot_Park_01.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_02jpg",
+            "original_file": "Szot_Park_02.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_03jpg",
+            "original_file": "Szot_Park_03.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_04jpg",
+            "original_file": "Szot_Park_04.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_05jpg",
+            "original_file": "Szot_Park_05.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_06jpg",
+            "original_file": "Szot_Park_06.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_07jpg",
+            "original_file": "Szot_Park_07.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_08jpg",
+            "original_file": "Szot_Park_08.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_09jpg",
+            "original_file": "Szot_Park_09.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_10jpg",
+            "original_file": "Szot_Park_10.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_11jpg",
+            "original_file": "Szot_Park_11.jpg"
+          },
+          {
+            "url": "web_images/Szot_Park_12jpg",
+            "original_file": "Szot_Park_12.jpg"
+          }
+        ],
+        "log_stats": {
+          "total_views": 29,
+          "total_duration_minutes": 73.23,
+          "users": [
+            "Eric Laflamme",
+            "Mathew Post",
+            "James Clark"
+          ],
+          "cameras": [
+            "Szot Park - Pool House - 360 - 3",
+            "Szot Park - Pool House - 360 - 4",
+            "Szot Park - Pool House - 360 - 2",
+            "Szot Park - Pool House - 360 - 1",
+            "Szot Park - Pool House - PTZ",
+            "Szot Park - Bemis Bath House - 360 - 2",
+            "Szot Park - Bemis Bath House - 360 - 3",
+            "Szot Park - Bemis Bath House - PTZ",
+            "Szot Park - Bemis Bath House - 360 - 4",
+            "Szot Park - Bemis Bath House - 360 - 1",
+            "Szot Park - Pavillion - 360 - 4",
+            "Szot Park - Pavillion - PTZ",
+            "Szot Park - Pavillion - 360 - 2",
+            "Szot Park - Pavillion - 360 - 1",
+            "Szot Park - Main Football Field - 360 - 4",
+            "Szot Park - Basketball Court - 360 - 1",
+            "Szot Park - Main Baseball Field - 360 - 2",
+            "Szot Park - Main Baseball Field - 360 - 4",
+            "Szot Park - Main Baseball Field - PTZ",
+            "Szot Park - Main Football Field - 360 - 1",
+            "Szot Park - Main Football Field - 360 - 2"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.585061,
+          42.157815
+        ]
+      },
+      "properties": {
+        "name": "Uniroyal",
+        "photos": [],
+        "log_stats": {
+          "total_views": 30,
+          "total_duration_minutes": 14.42,
+          "users": [
+            "James Clark",
+            "Eric Watson",
+            "Eric Laflamme",
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Uniroyal - Grove St Side - 2",
+            "Uniroyal - Grove St Gate - 2",
+            "Uniroyal - Grove St Gate - 1",
+            "Uniroyal - Oak St Gate",
+            "Uniroyal - Rear 360 - 3",
+            "Uniroyal - Rear 360 - 2",
+            "Uniroyal - Rear 360 - 1",
+            "Uniroyal - Rear 360 - 4",
+            "Uniroyal - Grove St Side - 1",
+            "1. Uniroyal - Oak St Gate",
+            "Uniroyal -Oak St - Rear Gate"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.592046,
+          42.17715
+        ]
+      },
+      "properties": {
+        "name": "Windsor St & Comp Field",
+        "photos": [],
+        "log_stats": {
+          "total_views": 10,
+          "total_duration_minutes": 11.28,
+          "users": [
+            "William Schwarz"
+          ],
+          "cameras": [
+            "Windsor St and Comp Field - 360 - 1",
+            "Windsor St and Comp Field - PTZ",
+            "Windsor St and Comp Field - 360 - 2",
+            "Windsor St and Comp Field - 360 - 4",
+            "Windsor St and Comp Field - 360 - 3"
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.612625,
+          42.147609
+        ]
+      },
+      "properties": {
+        "name": "101 Front Street",
+        "photos": [
+          {
+            "url": "web_images/101_Front_Street_01jpg",
+            "original_file": "101_Front_Street_01.jpg"
+          },
+          {
+            "url": "web_images/101_Front_Street_02jpg",
+            "original_file": "101_Front_Street_02.jpg"
+          },
+          {
+            "url": "web_images/101_Front_Street_03jpg",
+            "original_file": "101_Front_Street_03.jpg"
+          },
+          {
+            "url": "web_images/101_Front_Street_04jpg",
+            "original_file": "101_Front_Street_04.jpg"
+          },
+          {
+            "url": "web_images/101_Front_Street_05jpg",
+            "original_file": "101_Front_Street_05.jpg"
+          },
+          {
+            "url": "web_images/101_Front_Street_06jpg",
+            "original_file": "101_Front_Street_06.jpg"
+          }
+        ],
+        "log_stats": {}
+      }
+    }
+  ]
+}
