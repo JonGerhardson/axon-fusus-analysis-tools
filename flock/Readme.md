@@ -1,6 +1,6 @@
 Webscraper that uses bs4 to download a list of flock transparency portals. 
 
-To run, download the contents of this folder, and make suree you have all python depencies installesd by opening a ternminal and running 
+To run, download the contents of this folder, and make sure you have all python depencies installesd by opening a ternminal and running 
 
 ```
 pip install requests beautifulsoup4 lxml
