@@ -12,3 +12,5 @@ pip install requests beautifulsoup4 lxml
  - Saves each page's contents in a directory like State > Agency > date of scrape
 
 There's a 1 second delay between requests to avoid fucking anything up. 
+
+If you don't want to do all of this yourself, you can also grab a scrape dated June 11, 2025 that I formatted into one big spreadsheet [here](https://github.com/JonGerhardson/axon-fusus-analysis-tools/blob/main/flock/flock_all_public_6-11-2025.xlsx). 
