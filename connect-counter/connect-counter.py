@@ -1,40 +1,28 @@
+#!/usr/bin/env python3
+#!/usr/bin/env python3
 import datetime
 import csv
 import os
 from playwright.sync_api import sync_playwright
 
-# --- Best Practice for Cron ---
-# Change the working directory to the script's directory
-# This ensures that relative paths (if any) work as expected.
-script_dir = os.path.dirname(os.path.abspath(__file__))
-os.chdir(script_dir)
+# Define the file containing the URLs and the log file path
+URL_FILE = 'urls.txt' # <-- New: File with a list of URLs
+LOG_FILE = 'connect-counter.csv'
+# Assuming the script is in /home/jon/Documents/connectchicopeechron/
+# You might want to use absolute paths for files in a cron job
+# e.g., URL_FILE = '/home/jon/Documents/connectchicopeechron/urls.txt'
+#      LOG_FILE = '/home/jon/Documents/connectchicopeechron/camlogs.csv'
 
-# --- Configuration ---
-# Add all the URLs you want to scrape to this list
-URLS_TO_SCRAPE = [
-    'https://connectchicopee.org/',
-    'https://newyorkcityconnect.org/',
-    # Add more Axon Fusus community URLs here
-]
-
-# --- CRON JOB FIX ---
-# Use an absolute path for the log file to ensure cron finds it.
-# The script determines its own directory, so this is now robust.
-LOG_FILE = os.path.join(script_dir, 'camlogs.csv')
-
-
-def get_camera_stats(url):
+def get_camera_stats(url): # <-- Changed: Now accepts a URL as an argument
     """
     Launches a headless browser to scrape camera stats from a given URL.
     Includes a delay to allow for page animations to complete.
     """
-    # Use a new Playwright context for each URL to ensure isolation
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page()
         
         try:
-            print(f"Scraping {url}...")
             # Go to the target URL
             page.goto(url, timeout=60000)
 
@@ -56,21 +44,35 @@ def get_camera_stats(url):
 
         except Exception as e:
             browser.close()
-            # Log the error to the console
+            # Log the error to the console (which can be seen in cron logs if configured)
             print(f"An error occurred while scraping {url}: {e}")
             return None, None
 
+def read_urls(filename): # <-- New: Function to read URLs from a file
+    """Reads a list of URLs from a text file, one URL per line."""
+    try:
+        with open(filename, 'r') as f:
+            # Read lines, strip whitespace, and filter out empty lines
+            urls = [line.strip() for line in f if line.strip()]
+        return urls
+    except FileNotFoundError:
+        print(f"Error: URL file not found at '{filename}'")
+        return []
+
 def log_to_csv(timestamp, url, registered, integrated):
     """Appends a new row to the CSV log file."""
+    # Check if the file exists to determine if we need to write a header
     file_exists = os.path.isfile(LOG_FILE)
     
     with open(LOG_FILE, 'a', newline='') as csvfile:
         fieldnames = ['Timestamp', 'URL', 'Registered Cameras', 'Integrated Cameras']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
+        # Write header only if the file is new
         if not file_exists:
             writer.writeheader()
         
+        # Write the data row
         writer.writerow({
             'Timestamp': timestamp,
             'URL': url,
@@ -79,21 +81,25 @@ def log_to_csv(timestamp, url, registered, integrated):
         })
 
 if __name__ == "__main__":
-    print("Starting camera stats scraper for multiple URLs...")
-    # Loop through each URL in the list
-    for target_url in URLS_TO_SCRAPE:
+    # <-- Changed: Main logic now loops through URLs from the file
+    urls_to_scrape = read_urls(URL_FILE)
+    
+    if not urls_to_scrape:
+        print("No URLs to process. Exiting.")
+    
+    for url in urls_to_scrape:
+        print(f"--- Processing: {url} ---")
         # Get the stats for the current URL
-        registered_count, integrated_count = get_camera_stats(target_url)
+        registered_count, integrated_count = get_camera_stats(url)
         
+        # Get the current timestamp
         now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         if registered_count and integrated_count:
             # Log the successful data retrieval
-            log_to_csv(now, target_url, registered_count, integrated_count)
-            print(f"-> Successfully logged data for {target_url}")
+            log_to_csv(now, url, registered_count, integrated_count)
+            print(f"{now} - Successfully logged for {url}: Registered={registered_count}, Integrated={integrated_count}")
         else:
-            # Log the failure
-            log_to_csv(now, target_url, 'Error', 'Error')
-            print(f"-> Failed to log data for {target_url}. Logged error to CSV.")
-    
-    print("Scraping run finished.")
+            # Log the failure for the current URL
+            log_to_csv(now, url, 'Error', 'Error')
+            print(f"{now} - Error: Failed to retrieve stats for {url}. Logged error to CSV.")
