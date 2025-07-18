@@ -1,84 +1,35 @@
 Axon Fusus Community Camera Scraper
 
 This Python script scrapes public camera statistics (Registered and Integrated) from a list of Axon Fusus community program landing pages, such as [Connect Chicopee](https://connectchicopee.org) or [NYC Connect](https://newyorkcityconnect.org/), among others, and saves the results to a csv file.  
-![Screenshot from 2025-07-09 16-03-29](https://github.com/user-attachments/assets/f443f938-f6a2-431a-ab33-9f1c4ae2f76e)
 
-It is designed to be run automatically on a schedule (e.g., using a cron job) to log the camera counts over time from multiple sources into a single file.
-Features
+You can use the plain python script -- camcount.py with a list of sites you want to check as urls.txt. Prefereable for long lists, or running as a cron job. 
 
-    Processes a list of URLs in a single run.
+Or you can use app-count.py which is the same thing bbut with a graphical user inteface. -- easier to use, little to no computer skills needed. Just paste the urls you want to check in the box as one or a list. 
 
-    Navigates to each specified community landing page.
+usage:
+```
+python camcount.py
+```
+or 
+```
+python app.py
+```
 
-    Waits for dynamic content and "count-up" animations to finish for accurate data capture.
 
-    Scrapes the number of "Registered Cameras" and "Integrated Cameras."
+Both save the output to csv. Saves to csv the following: number of reported registered_cameras, number of reported integrated_cameras, datae  + time, url
 
-    Appends the results for each site as a new row to a single camlogs.csv file.
+If you have python and all the dependencies installed, all you need to do is save your preferred version and run it. Otherwise you need python, as well as playwright. 
 
-    Logs errors to the CSV if scraping fails for a specific site.
+Playwright might seem like overkill to get two numbers from a website, but the numbers only appear after some javascript shenangigans on the connect websites, so this is the best soloution I could figure out. 
 
-Requirements
-
-    Python 3
-
-    Playwright library:
-
+To install the Playwright library open a terminal and eneter
+    
+```
     pip install playwright
+```
+and then 
 
-    Playwright browser binaries (installs the necessary headless browsers):
-
-    python -m playwright install
-
-Usage
-
-    Configure the Script: Open the Python script and add all the target URLs to the URLS_TO_SCRAPE list at the top of the file.
-
-    # e.g., for multiple cities
-    URLS_TO_SCRAPE = [
-        'https://connectchicopee.org/',
-        'https://newyorkcityconnect.org/',
-        'https://connectberkshires.org/'
-    ]
-
-    Run Manually: You can execute the script directly from your terminal to perform a single scrape of all URLs in the list:
-
-    python3 camcount.py
-
-    Check the Output: After running, a camlogs.csv file will be created or updated in the same directory. Each run will add multiple rows—one for each URL in your list.
-
-Timestamp
-	
-
-URL
-	
-
-Registered Cameras
-	
-
-Integrated Cameras
-
-2023-10-27 12:00:01
-	
-
-https://connectchicopee.org/
-	
-
-56
-	
-
-476
-
-2023-10-27 12:00:15
-	
-
-https://newyorkcityconnect.org/
-	
-
-1234
-	
-
-5678
-Automation with Cron
-
-This script is ideal for automation. You can set up a cron job to run it on a regular schedule (e.g., every 12 hours). The same cron command will now trigger a run for all the URLs in your list.
+```
+playwright install
+```
+   <img width="490" height="427" alt="image" src="https://github.com/user-attachments/assets/9f83a92e-3944-454d-ac64-4da42639dc33" />
